@@ -1,0 +1,33 @@
+.navbar{
+    background-color: #7C3030;
+    font-size: larger;
+}
+.nav-link:hover{
+    border-bottom: 1px solid white;
+}
+.section-1{
+    background-color: #7C3030;
+    color: white;
+    padding: 10px;
+}
+.para1{
+    text-align: justify;
+}
+.product:hover{
+    background-color: #A95C68;
+    transform: scale(1.1);
+}
+footer{
+    background-color: #7C3030;
+    color: #f5d4b4;
+    text-align: justify;
+}
+footer a{
+    color: #f5d4b4;
+}
+footer a:hover{
+    color: white;
+}
+.footer-line{
+    border: 1px solid #f5d4b4;
+}
